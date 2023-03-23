@@ -1,5 +1,5 @@
 # Sales_analysis
-This Notebook is a simple exploratary data analysis on the sales data from a electronics shop. We clean the the data a bit and then answer a few question related to the data. See how to run this notebook in (instructions.md)[https://github.com/mizerablepi/Sales_analysis/blob/main/instructions.md]
+This Notebook is a simple exploratary data analysis on the sales data from a electronics shop. We clean the the data a bit and then answer a few question related to the data. See how to run this notebook in [instructions.md](https://github.com/mizerablepi/Sales_analysis/blob/main/instructions.md)
 
 ## Questions that are answered using this data:
 1. Which month had the best sales? How much was earned in that month?
